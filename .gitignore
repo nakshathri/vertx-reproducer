@@ -1,0 +1,11 @@
+target/**
+log/**
+deploy/**
+.classpath
+.project
+.settings/**
+file-uploads/**
+.vertx/**
+uuid1.lck
+uuid2.lck
+/target/
